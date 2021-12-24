@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/mzgQ3Jn/banner.png" alt="portada" border="0" width=800px>
+<img src="https://raw.githubusercontent.com/MayumyCH/r_programming_datacamp/main/resources/banner.png" alt="portada" border="0" width=800px>
 
 # SKILL TRACK - R Programming
 En este skill, aprenderá a codificar en R. Primero, aprenderá a trabajar con estructuras de datos comunes en R como vectores, matrices y marcos de datos antes de expandir sus habilidades dominando declaraciones condicionales, bucles y funciones vectorizadas. A continuación, descubrirá cómo optimizar su código mediante la creación de perfiles de código y la evaluación comparativa. Finalmente, se familiarizará con las funciones de escritura y la programación orientada a objetos (POO). Al final de esta pista, estará listo para abordar tareas más complejas, incluida la visualización avanzada de datos y el aprendizaje automático.
