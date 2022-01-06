@@ -1,6 +1,6 @@
 # Que Comience el juego para aprender R con datacamp
 
-# -------- Intro to basics
+# ------------------------------------- Intro to basics
 3 + 4
 my_numeric <- 3 + 5
 my_character <- "universe"
@@ -10,7 +10,7 @@ class(my_numeric)
 class(my_character)
 class(my_logical)
 
-# -------- Vectors
+# ----------------------------------------- Vectors
 numeric_vector <- c(1, 10, 49)
 character_vector <- c("a", "b", "c")
 boolean_vector <- c(TRUE,FALSE,TRUE)
@@ -35,7 +35,7 @@ total_week <- total_poker + total_roulette
 # Ganancia | Perdida del dia Miercoles
 poker_wednesday <- poker_vector[3]
 
-# Resultados del póquer  dia martes, miércoles y jueves
+# Resultados del pï¿½quer  dia martes, miï¿½rcoles y jueves
 poker_midweek <- poker_vector[c(2,3,4)]
 roulette_midweek<- roulette_vector[2:5]
 
