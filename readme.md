@@ -9,16 +9,16 @@ En este skill, aprenderá a codificar en R. Primero, aprenderá a trabajar con e
 ```
 ## Instructores🤖 
 
-- **[Hugo Bowne-Anderson](https://www.datacamp.com/instructors/hugobowne)**
+- **[Jonathan Cornelissen - Co-founder of DataCamp](https://www.datacamp.com/instructors/jonathanauthor)**
 
 ##  Skill Tracks🤖 
 
 - **[Link del skill track: R Programming](https://app.datacamp.com/learn/skill-tracks/r-programming)**
 
-- **Contenido del Skill (Notebooks)**
-    1. Introduction to R: [Notebook]() 
-    2. Intermediate R: [Notebook]() 
-    3. Writing Efficient R Code: [Notebook]()
+- **Contenido del Skill (Rscript)**
+    1. Introduction to R
+    2. Intermediate R
+    3. Writing Efficient R Code
     4. Introduction to Writing Functions in R: [Notebook]() - [Resumen codigo](https://www.notion.so/Python-Data-Science-Toolbox-Part-1-db14e1fc766c41cab009d34e33cc3cbc)
     5. Object-Oriented Programming with S3 and R6 in R
 

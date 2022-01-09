@@ -1,4 +1,4 @@
-# Que Comience el juego para aprender R con datacamp
+# Que Comience el juego para aprender R con DATACAMP
 
 # ------------------------------------- Intro to basics
 3 + 4

@@ -48,7 +48,6 @@ titles2 <- c("The Phantom Menace",
 star_wars_matrix2 <- matrix(box_office2, 
                            nrow = 3, byrow = TRUE,
                            dimnames = list(titles2, region))
-star_wars_matrix2
 
 # Combina ambas trilogías de Star Wars en una matriz
 all_wars_matrix <- rbind(star_wars_matrix,star_wars_matrix2)
